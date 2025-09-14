@@ -1,0 +1,5 @@
+{
+  "name": "与后端建立通信 Interactive Browser Animation",
+  "description": "An interactive web application that showcases a multi-stage animation simulating browsing a news website, including a pop-up window, dynamic typing, and an automated content searching sequence.",
+  "requestFramePermissions": []
+}
